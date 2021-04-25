@@ -1,3 +1,3 @@
 # about-me
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KristinaBelyakova)](https://github.com/KristinaBelyakova)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KristinaBelyakova&show_icons=true)](https://github.com/KristinaBelyakova)
