@@ -1,3 +1,3 @@
 # about-me
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KristinaBelyakova&show_icons=true&theme=tokyonight)
-
+Statistics
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KristinaBelyakova)](https://github.com/anuraghazra/github-readme-stats)
